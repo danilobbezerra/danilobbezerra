@@ -1,6 +1,13 @@
 ### Olá 👋, Eu sou Danilo Barreto Bezerra
+Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP.NET CORE.
 
 ![](https://vistr.dev/badge?repo=danilobbezerra.bio)
+[![](https://img.shields.io/badge/-Danilo%20Barreto%20Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilobbezerra/)](https://www.linkedin.com/in/danilobbezerra/)
+[![](https://img.shields.io/badge/-@danilobbezerra-%23181717?style=flat-square&logo=github)](https://github.com/danilobbezerra)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true&theme=dracula)
 
 
 <!--
