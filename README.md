@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá 👋, Eu sou Danilo Barreto Bezerra
+
+![](https://vistr.dev/badge?repo=danilobbezerra.bio)
+
 
 <!--
 **danilobbezerra/danilobbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
