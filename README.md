@@ -1,5 +1,5 @@
 ### Olá 👋, Eu sou Danilo Barreto Bezerra
-Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP.NET CORE.
+Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP.NET CORE com Linux.
 
 ![](https://vistr.dev/badge?repo=danilobbezerra.bio)
 [![](https://img.shields.io/badge/-Danilo%20Barreto%20Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilobbezerra/)](https://www.linkedin.com/in/danilobbezerra/)
