@@ -29,7 +29,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true&theme=dracula)
+![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true)
 
 
 
