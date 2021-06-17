@@ -25,6 +25,8 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 
 <img align="left" src="imagens/medium.png" />[Medium](https://danilobarretobezerra.medium.com/)
 
+<br />
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true&theme=dracula)
