@@ -19,9 +19,9 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 <br />
 
 ## Matérias publicadas
-[iMasters](https://imasters.com.br/perfil/danilobarretobezerra)
+<img align="left" src="imagens/imasters.png" />[iMasters](https://imasters.com.br/perfil/danilobarretobezerra)
 
-[Medium](https://danilobarretobezerra.medium.com/)
+<img align="left" src="imagens/medium.png" />[Medium](https://danilobarretobezerra.medium.com/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
