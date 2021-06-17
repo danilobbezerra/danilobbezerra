@@ -40,7 +40,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 
 ### Escutando Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/danilobarretobezerra)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&redirect=true)
 <br/>
 
 
