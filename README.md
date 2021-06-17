@@ -38,7 +38,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 
 ![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true)
 
-### Escutando Playing 🎧
+### Escutando 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&redirect=true)
 <br/>
