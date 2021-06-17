@@ -1,4 +1,4 @@
-### Olá 👋, Eu sou Danilo Barreto Bezerra
+### Olá <img src="imagens/Hi.gif" width="29px">, Eu sou Danilo Barreto Bezerra
 Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP.NET CORE com Linux.
 
 ![](https://vistr.dev/badge?repo=danilobbezerra.bio)
@@ -27,7 +27,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 <br />
 <br />
 
-## Matérias publicadas
+### 📕 Matérias publicadas
 <img align="left" src="imagens/imasters.png" />[iMasters](https://imasters.com.br/perfil/danilobarretobezerra)
 
 <img align="left" src="imagens/medium.png" />[Medium](https://danilobarretobezerra.medium.com/)
