@@ -14,7 +14,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 <img align="left" src="imagens/mysql.png" style="padding: 1%" /></a>
 <img align="left" src="imagens/git.png" style="padding: 1%" /></a>
 <img align="left" src="imagens/docker.png" style="padding: 1%" /></a>
-<img align="left" src="imagens/linux.png" style="padding: 1%" /></a>
+<img align="left" src="imagens/linux.jpg" style="padding: 1%" /></a>
 <img align="left" src="imagens/ubuntu.png" style="padding: 1%" /></a>
 
 <br />
