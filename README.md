@@ -5,7 +5,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 [![](https://img.shields.io/badge/-@danilobbezerra-%23181717?style=flat-square&logo=github)](https://github.com/danilobbezerra)
 
 
-### **🔭Conhecimento**
+### <img src="imagens/knowledge.png"> Conhecimento
 
 ||||||
 | ----: | :----: | :----: | :----: | :----: |
@@ -20,6 +20,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 | Container  | <img src="imagens/docker.png" /><br> Docker  |   |   |   |
 
 ---
+
 
 ### <img src="imagens/news.png"> Matérias publicadas 
 |Canal|Titulo|
