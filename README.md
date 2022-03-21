@@ -8,33 +8,33 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 ### **🔭Conhecimento**
 
 ||||||
-| ----: | :----:|:----:|:----:|:----:|
-| Linguagens   | <img align="left" src="imagens/csharp.png" style="padding: 1%" />  |  <img align="left" src="imagens/dot-net.png" style="padding: 1%" /> | <img align="left" src="imagens/nodejs.png" style="padding: 1%" />  | <img align="left" src="imagens/next.png" style="padding: 1%" />  |
-| Bancos Relacional   | <img align="left" src="imagens/mysql.png" style="padding: 1%" />  | <img align="left" src="imagens/sql.png" style="padding: 1%" />  |   |   |
-| Banco Não Relacional  | <img align="left" src="imagens/mongodb.png" style="padding: 1%" />  |  <img align="left" src="imagens/redis.png" style="padding: 1%" /> | <img align="left" src="imagens/elasticsearch.png" style="padding: 1%" />  |   |
-| Versionador  | <img align="left" src="imagens/git.png" style="padding: 1%" />  |   |   |   |
-| Ferramentas  | <img align="left" src="imagens/visual-studio-code.png" style="padding: 1%" />  | <img align="left" src="imagens/visualstudio.png" style="padding: 1%" />  |   |   |
-| Nuvem  | <img align="left" src="imagens/aws.png" style="padding: 1%" />  | <img align="left" src="imagens/azure.png" style="padding: 1%" />  |   |   |
-| Sistemas  | <img align="left" src="imagens/linux.png" style="padding: 1%" />  | <img align="left" src="imagens/ubuntu.png" style="padding: 1%" />  | <img align="left" src="imagens/microsoft-windows.png" style="padding: 1%" />  |   |
-| Paineis  | <img align="left" src="imagens/aaPanel.png" style="padding: 1%" />  |   |   |   |
-| Container  | <img align="left" src="imagens/docker.png" style="padding: 1%" />  |   |   |   |
+| ----: | :----: | :----: | :----: | :----: |
+| Linguagens   | <img src="imagens/csharp.png" /><br> C#  |  <img  src="imagens/dot-net.png" /><br> .NET| <img src="imagens/nodejs.png"  /><br> NodeJs   | <img src="imagens/next.png" /> <br> NextJs  |
+| Bancos Relacional   | <img src="imagens/mysql.png" /> <br> MySQL  | <img src="imagens/sql.png" /> <br> Sql Server  |   |   |
+| Banco Não Relacional  | <img src="imagens/mongodb.png" /><br> MongoDB  |  <img src="imagens/redis.png" /> <br> Redis | <img src="imagens/elasticsearch.png" /> <br> Elastic Search  |   |
+| Versionador  | <img src="imagens/git.png" /> <br> Git  |   |   |   |
+| Ferramentas  | <img src="imagens/visual-studio-code.png" /> <br> Visual Studio Code  | <img src="imagens/visualstudio.png"  /> <br> Visual Studio  |   |   |
+| Nuvem  | <img src="imagens/aws.png" /><br> Aws  | <img src="imagens/azure.png" /> <br> Azure  |   |   |
+| Sistemas  | <img src="imagens/linux.png" /><br> Linux  | <img src="imagens/ubuntu.png" /><br> Ubuntu  | <img src="imagens/microsoft-windows.png" /> <br> Windows  |   |
+| Paineis  | <img src="imagens/aaPanel.png" /><br> aaPanel   |   |   |   |
+| Container  | <img src="imagens/docker.png" /><br> Docker  |   |   |   |
 
 
 
 ---
 
-### 📕 Matérias publicadas
+### <img src="imagens/news.png"> Matérias publicadas 
 <img align="left" src="imagens/imasters.png" />[iMasters](https://imasters.com.br/perfil/danilobarretobezerra)
 
-<img align="left" src="imagens/medium.png" />[Medium](https://danilobarretobezerra.medium.com/)
+<img src="imagens/medium.png" /> [Medium](https://danilobarretobezerra.medium.com/)
 
 <br />
 
-## 𝗦𝘁𝗮𝘁𝘀
+## <img src="imagens/stats.png"> 𝗦𝘁𝗮𝘁𝘀 
 
 ![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true)
 
-### Escutando 🎧
+### <img src="imagens/spotify.png"> Escutando 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&redirect=true)
 <br/>
