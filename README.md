@@ -8,23 +8,48 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 ### **🔭Conhecimento**
 
 <img align="left" src="imagens/csharp.png" style="padding: 1%" /></a>
-<img align="left" src="imagens/dotnet.png" style="padding: 1%" /></a>
+
+<img align="left" src="imagens/dot-net.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/next.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/nodejs.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/visual-studio-code.png" style="padding: 1%" />
+
 <img align="left" src="imagens/elasticsearch.png" style="padding: 1%" />
+
 <img align="left" src="imagens/visualstudio.png" style="padding: 1%" />
+
 <img align="left" src="imagens/mysql.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/mongodb.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/redis.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/git.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/docker.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/aaPanel.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/aws.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/linux.png" style="padding: 1%" /></a>
-<img align="left" src="imagens/windows.png" style="padding: 1%" /></a>
+
+<img align="left" src="imagens/microsoft-windows.png" style="padding: 1%" /></a>
+
 <img align="left" src="imagens/ubuntu.png" style="padding: 1%" /></a>
 
+<br />
+<br />
+<br />
+<br />
+
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
