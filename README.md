@@ -19,14 +19,17 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 | Paineis  | <img src="imagens/aaPanel.png" /><br> aaPanel   |   |   |   |
 | Container  | <img src="imagens/docker.png" /><br> Docker  |   |   |   |
 
-
-
 ---
 
 ### <img src="imagens/news.png"> Matérias publicadas 
-<img align="left" src="imagens/imasters.png" />[iMasters](https://imasters.com.br/perfil/danilobarretobezerra)
+|Canal|Titulo|
+|  :----: | :---- | :----: | 
+|<img src="imagens/imasters.png" /><br> iMasters| [Docker Registry — Entendendo melhor](https://imasters.com.br/docker/docker-registry-entendendo-melhor)|
+|<img src="imagens/imasters.png" /><br> iMasters| [Linux Ubuntu com Docker, proxy reverso e SSL com Nginx Proxy Manager](https://imasters.com.br/linux/linux-ubuntu-com-docker-proxy-reverso-e-ssl-com-nginx-proxy-manager)|
+|<img src="imagens/imasters.png" /><br> iMasters| [ASP.NET Core: rodando Linux e usando Docker com aaPanel](https://imasters.com.br/dotnet/asp-net-core-rodando-linux-e-usando-docker-com-aapanel)|
+|<img src="imagens/medium.png" /><br> Medium|[Perfil Medium](https://danilobarretobezerra.medium.com/)|
 
-<img src="imagens/medium.png" /> [Medium](https://danilobarretobezerra.medium.com/)
+
 
 <br />
 
