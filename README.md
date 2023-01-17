@@ -25,6 +25,7 @@ Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP
 ### <img src="imagens/news.png"> Matérias publicadas 
 |Canal|Titulo|
 |  :----: | :---- |
+|<img src="imagens/imasters.png" /><br> iMasters| [CloudFlare Tunnel: publicando serviços ou sites sem abrir portas ou precisar de IP fixo](https://imasters.com.br/tendencias/cloudflare-tunnel-publicando-servicos-ou-sites-sem-abrir-portas-ou-precisar-de-ip-fixo)|
 |<img src="imagens/imasters.png" /><br> iMasters| [Docker Registry — Entendendo melhor](https://imasters.com.br/docker/docker-registry-entendendo-melhor)|
 |<img src="imagens/imasters.png" /><br> iMasters| [Linux Ubuntu com Docker, proxy reverso e SSL com Nginx Proxy Manager](https://imasters.com.br/linux/linux-ubuntu-com-docker-proxy-reverso-e-ssl-com-nginx-proxy-manager)|
 |<img src="imagens/imasters.png" /><br> iMasters| [ASP.NET Core: rodando Linux e usando Docker com aaPanel](https://imasters.com.br/dotnet/asp-net-core-rodando-linux-e-usando-docker-com-aapanel)|
