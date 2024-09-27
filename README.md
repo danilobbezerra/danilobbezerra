@@ -1,63 +1,74 @@
-### Olá <img src="imagens/Hi.gif" width="29px">, Eu sou [Danilo Barreto Bezerra](https://www.danilobarretobezerra.com.br)
-Sou desenvolvedor há mais de 20 anos, atualmente estou me especializando em ASP.NET CORE com Linux.
+# Olá, eu sou Danilo Barreto Bezerra 👋
 
-[![](https://img.shields.io/badge/-Danilo%20Barreto%20Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilobbezerra/)](https://www.linkedin.com/in/danilobbezerra/)
-[![](https://img.shields.io/badge/-@danilobbezerra-%23181717?style=flat-square&logo=github)](https://github.com/danilobbezerra)
+Sou desenvolvedor com mais de 20 anos de experiência, especializado em **ASP.NET Core**. Atualmente, sou **Especialista** na **Zup**, onde aplico minhas habilidades em soluções robustas e escaláveis. Ao longo da minha carreira, sempre busquei aprimorar minhas habilidades em diversas tecnologias e oferecer soluções eficientes. Sou apaixonado por tecnologia e sempre estou em busca de novos desafios, com o objetivo de evoluir continuamente.
 
-
-### <img src="imagens/knowledge.png"> Conhecimento
-
-||||||
-| ----: | :----: | :----: | :----: | :----: |
-| Linguagens   | <img src="imagens/csharp.png" /><br> C#  |  <img  src="imagens/dot-net.png" /><br> .NET| <img src="imagens/nodejs.png"  /><br> NodeJs   | <img src="imagens/next.png" /> <br> NextJs  |
-| Bancos Relacional   | <img src="imagens/mysql.png" /> <br> MySQL  | <img src="imagens/sql.png" /> <br> Sql Server  |   |   |
-| Banco Não Relacional  | <img src="imagens/mongodb.png" /><br> MongoDB  |  <img src="imagens/redis.png" /> <br> Redis | <img src="imagens/elasticsearch.png" /> <br> Elastic Search  |   |
-| Versionador  | <img src="imagens/git.png" /> <br> Git  |   |   |   |
-| Ferramentas  | <img src="imagens/visual-studio-code.png" /> <br> Visual Studio Code  | <img src="imagens/visualstudio.png"  /> <br> Visual Studio  |   |   |
-| Nuvem  | <img src="imagens/aws.png" /><br> Aws  | <img src="imagens/azure.png" /> <br> Azure  |   |   |
-| Sistemas  | <img src="imagens/linux.png" /><br> Linux  | <img src="imagens/ubuntu.png" /><br> Ubuntu  | <img src="imagens/microsoft-windows.png" /> <br> Windows  |   |
-| Paineis  | <img src="imagens/aaPanel.png" /><br> aaPanel   |   |   |   |
-| Container  | <img src="imagens/docker.png" /><br> Docker  |   |   |   |
+[![](https://img.shields.io/badge/-Danilo%20Barreto%20Bezerra-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilobbezerra/)](https://www.linkedin.com/in/danilobbezerra/)
+[![](https://img.shields.io/badge/-@danilobbezerra-%23181717?style=for-the-badge&logo=github)](https://github.com/danilobbezerra)
 
 ---
 
+## 🌍 Sobre Mim
+- 🌍 **Localização**: Barueri, SP, Brasil
+- 💻 **Especialidade**: ASP.NET Core, C#, Python, e tecnologias web modernas.
+- 🔧 **Ferramentas**: Docker, Kubernetes, Terraform, CI/CD, bancos de dados relacionais e não relacionais.
+- 🎯 **Atualmente**: Especialista na Zup, aplicando tecnologias de ponta para desenvolvimento e automação de infraestrutura.
+- 🚀 **Objetivo**: Tornar-me Arquiteto de Soluções e aprimorar minhas habilidades em cloud computing e DevOps.
+- 🎮 **Interesses**: Dota 2, segurança cibernética, arquitetura de software, e automação de infraestruturas com Docker.
 
-### <img src="imagens/news.png"> Matérias publicadas 
-|Canal|Titulo|
-|  :----: | :---- |
-|<img src="imagens/imasters.png" /><br> iMasters| [CloudFlare Tunnel: publicando serviços ou sites sem abrir portas ou precisar de IP fixo](https://imasters.com.br/tendencias/cloudflare-tunnel-publicando-servicos-ou-sites-sem-abrir-portas-ou-precisar-de-ip-fixo)|
-|<img src="imagens/imasters.png" /><br> iMasters| [Docker Registry — Entendendo melhor](https://imasters.com.br/docker/docker-registry-entendendo-melhor)|
-|<img src="imagens/imasters.png" /><br> iMasters| [Linux Ubuntu com Docker, proxy reverso e SSL com Nginx Proxy Manager](https://imasters.com.br/linux/linux-ubuntu-com-docker-proxy-reverso-e-ssl-com-nginx-proxy-manager)|
-|<img src="imagens/imasters.png" /><br> iMasters| [ASP.NET Core: rodando Linux e usando Docker com aaPanel](https://imasters.com.br/dotnet/asp-net-core-rodando-linux-e-usando-docker-com-aapanel)|
-|<img src="imagens/medium.png" /><br> Medium|[Perfil Medium](https://danilobarretobezerra.medium.com/)|
+---
 
+## 🚀 Tecnologias & Ferramentas
 
+### 🧑‍💻 Linguagens de Programação
 
-<br />
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## <img src="imagens/stats.png"> 𝗦𝘁𝗮𝘁𝘀 
+### 🛠️ Ferramentas & Frameworks
 
-![Danilo github stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JMTER](https://img.shields.io/badge/-JMTER-EE3124?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![StackSpot AI](https://img.shields.io/badge/-StackSpot%20AI-12100E?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![StackSpot EDP](https://img.shields.io/badge/-StackSpot%20EDP-12100E?style=for-the-badge&logo=edp&logoColor=white)
 
-### <img src="imagens/spotify.png"> Escutando 
+### ☁️ Cloud & Infraestrutura
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=danilobarretobezerra&redirect=true)
-<br/>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-<br/><br/><br/>
-![](https://vistr.dev/badge?repo=danilobbezerra.bio)
+### 🗄️ Desenvolvimento de Back-end
 
-<!--
-**danilobbezerra/danilobbezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Desenvolvimento de Back-end](https://img.shields.io/badge/-Desenvolvimento%20de%20Back--end-0052CC?style=for-the-badge&logo=backend&logoColor=white)
 
-Here are some ideas to get you started:
+### 🧠 Inteligência Artificial e Micro Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AI](https://img.shields.io/badge/-AI-0A0A0A?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Micro Front End](https://img.shields.io/badge/-Micro%20Front%20End-0D47A1?style=for-the-badge&logo=frontend&logoColor=white)
+
+---
+
+## 📚 Publicações
+
+Ao longo dos anos, publiquei artigos e tutoriais em diferentes canais, compartilhando conhecimentos sobre tecnologias que utilizo no dia a dia:
+
+| **Canal**                          | **Título**                                                                                                                                                              |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![iMasters](imagens/imasters.png) iMasters | [CloudFlare Tunnel: publicando serviços ou sites sem abrir portas ou precisar de IP fixo](https://imasters.com.br/tendencias/cloudflare-tunnel-publicando-servicos-ou-sites-sem-abrir-portas-ou-precisar-de-ip-fixo) |
+| ![iMasters](imagens/imasters.png) iMasters | [Docker Registry — Entendendo melhor](https://imasters.com.br/docker/docker-registry-entendendo-melhor)                                                                 |
+| ![iMasters](imagens/imasters.png) iMasters | [Linux Ubuntu com Docker, proxy reverso e SSL com Nginx Proxy Manager](https://imasters.com.br/linux/linux-ubuntu-com-docker-proxy-reverso-e-ssl-com-nginx-proxy-manager) |
+| ![iMasters](imagens/imasters.png) iMasters | [ASP.NET Core: rodando Linux e usando Docker com aaPanel](https://imasters.com.br/dotnet/asp-net-core-rodando-linux-e-usando-docker-com-aapanel)                          |
+| ![Medium](imagens/medium.png) Medium | [Meu Perfil no Medium](https://danilobarretobezerra.medium.com/)                                                                                                       |
+
+---
+
+## 📊 GitHub Stats
+
+![Danilo GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilobbezerra&show_icons=true&theme=radical)
+
